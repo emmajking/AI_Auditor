@@ -1,0 +1,2 @@
+2026-02-22 21:32:05,408 - WARNING - Erreur requête Ollama: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=10)
+2026-02-22 21:39:35,747 - WARNING - Erreur nettoyage DESCRIPTION: 'DataFrame' object has no attribute 'str'
